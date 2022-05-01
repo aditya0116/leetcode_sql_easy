@@ -1,13 +1,7 @@
 # #1757
 Table: Products
 
-+-------------+---------+
-| Column Name | Type    |
-+-------------+---------+
-| product_id  | int     |
-| low_fats    | enum    |
-| recyclable  | enum    |
-+-------------+---------+
+![image](https://user-images.githubusercontent.com/97834321/166145690-4f18f6af-ea07-4c83-8bd9-42c8e8dc1323.png)
 product_id is the primary key for this table.
 low_fats is an ENUM of type ('Y', 'N') where 'Y' means this product is low fat and 'N' means it is not.
 recyclable is an ENUM of types ('Y', 'N') where 'Y' means this product is recyclable and 'N' means it is not.
@@ -17,24 +11,8 @@ Return the result table in any order.
 The query result format is in the following example.
 
 Example 1:
-Input: 
-Products table:
-+-------------+----------+------------+
-| product_id  | low_fats | recyclable |
-+-------------+----------+------------+
-| 0           | Y        | N          |
-| 1           | Y        | Y          |
-| 2           | N        | Y          |
-| 3           | Y        | Y          |
-| 4           | N        | N          |
-+-------------+----------+------------+
-Output: 
-+-------------+
-| product_id  |
-+-------------+
-| 1           |
-| 3           |
-+-------------+
+![image](https://user-images.githubusercontent.com/97834321/166145721-8eee3981-29fc-408c-9292-62e3486415b3.png)
+
 Explanation: Only products 1 and 3 are both low fat and recyclable.
 
 
