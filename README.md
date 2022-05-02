@@ -50,6 +50,21 @@ The query result format is in the following example.
 -------------------
 
 
+# #1795. Rearrange Products Table | UNPIVOT 
+![image](https://user-images.githubusercontent.com/97834321/166305094-e7636872-5092-461d-8ada-c7f109ece2dd.png)
+
+Write an SQL query to rearrange the Products table so that each row has (product_id, store, price). If a product is not available in a store, do not include a row with that product_id and store combination in the result table.
+
+Return the result table in any order.
+
+The query result format is in the following example.
+
+![image](https://user-images.githubusercontent.com/97834321/166305174-a4c7d6d2-7845-4afd-a743-cd6ffe449475.png)
+
+
+-------------------
+
+
 
 
 
