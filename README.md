@@ -20,3 +20,12 @@ Explanation: Only products 1 and 3 are both low fat and recyclable.
 -------------------
 
 
+# #1741
+Table: Employees
+![image](https://user-images.githubusercontent.com/97834321/166189013-3fb4a5e2-008b-444c-b194-f7910eb774a4.png)
+Write an SQL query to calculate the total time in minutes spent by each employee on each day at the office. Note that within one day, an employee can enter and leave more than once. The time spent in the office for a single entry is out_time - in_time.
+
+Return the result table in any order.
+
+The query result format is in the following example.
+![image](https://user-images.githubusercontent.com/97834321/166189046-14e4f474-1f9e-4611-90c3-bbd98bae72cf.png)
