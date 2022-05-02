@@ -81,6 +81,25 @@ The query result format is in the following example.
 
 
 
+# #1581. Customer Who Visited but Did Not Make Any Transactions
+![image](https://user-images.githubusercontent.com/97834321/166307654-dd1a0151-fdf3-42e9-a4cf-659d90723b9d.png)
+
+Write an SQL query to find the IDs of the users who visited without making any transactions and the number of times they made these types of visits.
+
+Return the result table sorted in any order.
+
+The query result format is in the following example.
+
+![image](https://user-images.githubusercontent.com/97834321/166307720-db8472d2-e99c-493d-832f-d28cca4a5ca0.png)
+Customer with id = 96 visited the mall once and did not make any transactions.
+As we can see, users with IDs 30 and 96 visited the mall one time without making any transactions. Also, user 54 visited the mall twice and did not make any transactions.
+
+
+
+-------------------
+
+
+
 
 
 
