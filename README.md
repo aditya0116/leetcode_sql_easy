@@ -65,6 +65,22 @@ The query result format is in the following example.
 -------------------
 
 
+# #1587
+![image](https://user-images.githubusercontent.com/97834321/166305852-8f2cb404-6f3e-4b71-aaa4-d8ea79bb91f3.png)
+
+Write an SQL query to report the name and balance of users with a balance higher than 10000. The balance of an account is equal to the sum of the amounts of all transactions involving that account.
+
+Return the result table in any order.
+
+The query result format is in the following example.
+
+![image](https://user-images.githubusercontent.com/97834321/166305913-4402f609-6f8f-4cef-883d-ad067020a9c6.png)
+
+
+-------------------
+
+
+
 
 
 
