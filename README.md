@@ -101,6 +101,23 @@ As we can see, users with IDs 30 and 96 visited the mall one time without making
 
 
 
+# #1873 Calculate Special Bonus
+![image](https://user-images.githubusercontent.com/97834321/166519477-89a525ee-e843-44d5-b21b-09cb22d4a125.png)
+
+Write an SQL query to calculate the bonus of each employee. The bonus of an employee is 100% of their salary if the ID of the employee is an odd number and the employee name does not start with the character 'M'. The bonus of an employee is 0 otherwise.
+
+Return the result table ordered by employee_id.
+
+The query result format is in the following example.
+
+![image](https://user-images.githubusercontent.com/97834321/166519547-417a041d-9867-44ea-b6da-012f0607a6b9.png)
+
+
+
+-------------------
+
+
+
 
 
 
