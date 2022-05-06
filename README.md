@@ -128,7 +128,18 @@ The query result format is in the following example.
 
 
 
+# #1407. Top Travellers
+![image](https://user-images.githubusercontent.com/97834321/167197141-6391faba-ca66-4483-98a7-a027cf3a64a7.png)
+Write an SQL query to report the distance traveled by each user.
+Return the result table ordered by travelled_distance in descending order, if two or more users traveled the same distance, order them by their name in ascending order.
+The query result format is in the following example.
 
+![image](https://user-images.githubusercontent.com/97834321/167197221-b567a928-027d-4614-b2d3-ef547167c3b5.png)
+![image](https://user-images.githubusercontent.com/97834321/167197247-c4b01b5a-b071-4d02-a28a-7d8c152fd2e0.png)
+
+
+
+-------------------
 
 
 
