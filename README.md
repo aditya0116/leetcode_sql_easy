@@ -143,4 +143,20 @@ The query result format is in the following example.
 
 
 
+# #1890. The Latest Login in 2020
+![image](https://user-images.githubusercontent.com/97834321/167199423-e8acb6e0-1c51-4bba-8914-197b57bfb67e.png)
+
+Write an SQL query to report the latest login for all users in the year 2020. Do not include the users who did not login in 2020.
+
+Return the result table in any order.
+
+The query result format is in the following example.
+
+![image](https://user-images.githubusercontent.com/97834321/167199467-0b59840e-558a-468a-a0bf-7ad9e29e3ec7.png)
+
+
+
+-------------------
+
+
 
