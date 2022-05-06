@@ -118,6 +118,18 @@ The query result format is in the following example.
 
 
 
+# #1484. Group Sold Products By The Date | group aggregate 
+![image](https://user-images.githubusercontent.com/97834321/167195685-67bd1f18-9f08-47a3-a295-e62f12c181bc.png)
+![image](https://user-images.githubusercontent.com/97834321/167195730-5aaf2e44-7226-4ced-9530-aa40d95473db.png)
+
+
+
+-------------------
+
+
+
+
+
 
 
 
