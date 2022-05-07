@@ -172,6 +172,23 @@ The query result format is in the following example.
 
 
 
+# #1965. Employees With Missing Information
+![image](https://user-images.githubusercontent.com/97834321/167268392-ee37fafc-e2e5-485d-bdba-708c577e6f5f.png)
+![image](https://user-images.githubusercontent.com/97834321/167268401-62fdc88e-78d6-4f0c-8781-eb035f9d5f7e.png)
+
+
+
+-------------------
+
+
+
+# #511. Game Play Analysis I
+![image](https://user-images.githubusercontent.com/97834321/167268531-3a032b50-d4a6-4caa-ac06-15fed65a22ec.png)
+![image](https://user-images.githubusercontent.com/97834321/167268536-c3dcc7e1-2c8a-4bb0-b728-3aa33178905f.png)
+
+
+
+-------------------
 
 
 
