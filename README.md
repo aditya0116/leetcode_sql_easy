@@ -159,3 +159,19 @@ The query result format is in the following example.
 -------------------
 
 
+
+
+# #1179. Reformat Department Table
+![image](https://user-images.githubusercontent.com/97834321/167267766-d1cf3b58-4ad6-495a-b3c5-30d3cae99950.png)
+
+![image](https://user-images.githubusercontent.com/97834321/167267772-d402406d-47ed-42bc-bb7c-c4a5a2381f8e.png)
+
+
+
+-------------------
+
+
+
+
+
+
