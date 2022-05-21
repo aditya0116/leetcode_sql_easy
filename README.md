@@ -232,5 +232,23 @@ The query result format is in the following example.
 
 
 
+# 586. Customer Placing the Largest Number of Orders
+![image](https://user-images.githubusercontent.com/97834321/169665735-550856ac-76c8-4b13-a8d0-a64fc34ddd72.png)
+![image](https://user-images.githubusercontent.com/97834321/169665744-fdf32f58-a466-4ba3-87ff-4487ac9e8b15.png)
+
+
+
+-------------------
+
+
+
+# 1050. Actors and Directors Who Cooperated At Least Three Times
+![image](https://user-images.githubusercontent.com/97834321/169666017-dc9d835c-5f3e-484e-b5cf-da524b1211fc.png)
+![image](https://user-images.githubusercontent.com/97834321/169666028-cdf96376-7408-4242-ad93-a7c754b59233.png)
+
+
+
+-------------------
+
 
 
