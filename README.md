@@ -192,3 +192,15 @@ The query result format is in the following example.
 
 
 
+# 627. Swap Salary
+![image](https://user-images.githubusercontent.com/97834321/169665163-1ac3c9e5-b468-48ee-be9a-6c6fc9a9bdfa.png)
+![image](https://user-images.githubusercontent.com/97834321/169665184-73ad133b-4304-42e1-adf3-ebeecc9cdd2a.png)
+
+
+
+-------------------
+
+
+
+
+
