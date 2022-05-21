@@ -202,5 +202,35 @@ The query result format is in the following example.
 
 
 
+# 1148. Article Views I
+![image](https://user-images.githubusercontent.com/97834321/169665311-d9cde20e-fff1-45bf-9bed-c4fbf5fe58b6.png)
+![image](https://user-images.githubusercontent.com/97834321/169665330-658c6bfd-6f06-4eb5-91a8-030f0ad301c0.png)
+
+
+
+-------------------
+
+
+
+# 584. Find Customer Referee
+![image](https://user-images.githubusercontent.com/97834321/169665468-39b4a112-6fd0-4b69-807a-c05474e73d76.png)
+![image](https://user-images.githubusercontent.com/97834321/169665475-ea3840d6-c8c1-4842-a40c-fe0d65f791c9.png)
+
+
+
+-------------------
+
+
+
+# 595. Big Countries
+![image](https://user-images.githubusercontent.com/97834321/169665552-dcba884b-f72a-41b6-a0b4-3832dbc60adf.png)
+![image](https://user-images.githubusercontent.com/97834321/169665563-4c63e2ea-3bf9-42cd-bb1a-772979d845ed.png)
+
+
+
+-------------------
+
+
+
 
 
