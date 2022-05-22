@@ -252,3 +252,15 @@ The query result format is in the following example.
 
 
 
+# 197. Rising Temperature
+![image](https://user-images.githubusercontent.com/97834321/169705047-bac98cbc-1ba8-4a8c-ad76-9eed10bd81b2.png)
+![image](https://user-images.githubusercontent.com/97834321/169705059-7eb5230a-1e4b-4d86-bfa2-045bbe0fbda6.png)
+
+
+
+-------------------
+
+
+
+
+
