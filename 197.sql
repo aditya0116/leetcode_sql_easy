@@ -1,1 +1,1 @@
-select id from (select a.*, lag(temperature ,1) over(order by recordDate ) prev_day_temp from Weather a )aa where temperature > prev_day_temp ;
+select id from (select a.*, lag(temperature ,1) over(order by recordDate ) prev_day_temp,lag(recordDate ,1) over(order by recordDate ) prev_day from Weather a )aa where temperature > prev_day_temp and datediff(recordDate,prev_day) = 1;
