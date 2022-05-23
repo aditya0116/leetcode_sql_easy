@@ -263,4 +263,15 @@ The query result format is in the following example.
 
 
 
+# 596. Classes More Than 5 Students
+![image](https://user-images.githubusercontent.com/97834321/169857077-0452cc93-a990-41c2-bb4f-4fbdf776289f.png)
+![image](https://user-images.githubusercontent.com/97834321/169857127-83cbb2c9-dfc7-410a-a9bb-003b8eea47c2.png)
+
+
+
+-------------------
+
+
+
+
 
